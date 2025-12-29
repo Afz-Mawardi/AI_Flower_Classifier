@@ -88,5 +88,5 @@ Detail lengkap request/response dan contoh curl ada di `USAGE.md`.
 
 ## License
 
-Tambahkan lisensi sesuai kebutuhan project (misalnya MIT/Apache-2.0). Jika ini project internal, Anda bisa menghapus bagian ini.
+MIT License. Lihat file `LICENSE`.
 # AI_Flower_Classifier
